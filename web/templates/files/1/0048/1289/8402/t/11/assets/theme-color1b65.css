@@ -1,0 +1,413 @@
+.mark, mark {
+    background: #abd373 none repeat scroll 0 0;
+}
+.section-title > span:before,
+.section-title > span:after {
+	background: #abd373;
+}
+input:focus {
+    border: 2px solid #abd373;
+}
+textarea:focus {
+    border: 2px solid #abd373;
+}
+
+#scrollUp:hover{
+    background: #abd373;
+    border-color: #abd373;
+}
+.vbox-close {
+	background: #abd373 url("close.html") no-repeat scroll 10px center !important;
+}
+.main-menu > li > a:before {
+	background: #abd373;
+}
+.dropdown > li > a:hover,
+.mega-menu > li > ul > li > a:hover{
+    color: #abd373;
+}
+.mini-cart:hover > a{
+    color: #abd373; 
+}
+
+.cart-quantity {
+	background: #abd373;
+}
+.cart-img > a:hover{
+    border-color: #abd373;
+}
+.cart-btn a:hover{
+    background: #abd373;
+    border-color: #abd373;
+}
+.search-box:hover > a{
+    color: #abd373
+}
+.search-dropdown > form > button:hover{
+    color: #abd373;
+}
+.currency-box:hover > a{
+    color: #abd373;
+}
+.menu-top-menu > li > a:hover{
+    color: #abd373;
+}
+.switcher-menu > ul > li > a {
+	color: #abd373;
+}
+.switcher-dropdown > li > a:hover{
+    color: #abd373;
+}
+.header-top-language-currency .switcher-menu > ul > li:hover > a{
+    color: #abd373; 
+}
+.header-top-right .menu-top-menu > li > a:hover{
+    color: #abd373;
+}
+.header-search-area form button:hover{
+    color: #abd373;
+}
+.slider-btn > a:hover{
+    background-color: #abd373;
+}
+.feature-icon > span {
+	color: #abd373;
+}
+.categories-img:hover .categories-content{
+    background: #abd373;
+}
+.categories-content > h4 {
+	color: #abd373;
+}
+
+.onsale {
+    background: #abd373;
+}
+.product-action > ul > li > a:hover{
+    color: #abd373;
+} 
+.product-content > h2 > a:hover{
+    color: #abd373;
+}
+.add-to-cart a:hover{
+    color: #abd373;
+}
+.single-count-1 {
+  background: #abd373;
+}
+.testimonial-author > h6 {
+    color: #abd373;
+}
+.post-date {
+    color: #abd373;
+}
+.post-author > a {
+  color: #abd373;
+}
+.blog-list:hover{
+    background: #abd373;
+}
+.blog-list .post-date {
+	background: #abd373;
+}
+article.blog_single .post-category {
+	color: #abd373;
+}
+article.blog_single .post-category > a {
+	color: #abd373;
+}
+
+h2.entry-title > a:hover {
+	color: #abd373;
+}
+.blog-social-icons > li > a:hover{
+    background-color: #abd373;
+}
+.comment:hover{
+    color: #abd373;
+}
+.search__sidbar .button:hover{
+    color: #abd373;
+}
+.entry-summary.blog-post-description blockquote {
+	border-left: 5px solid #abd373;
+}
+.single-post-tag > a:hover{
+    color: #abd373;
+}
+
+.comments-area .commentlist li .comment-info .reply a {
+	border: 1px solid #abd373;
+	color: #abd373;
+}
+.comments-area .commentlist li .comment-info .reply a:hover{
+    background-color: #abd373;
+}
+.single-input > input:focus,
+.single-input > textarea:focus {
+	outline-color: #abd373;
+}
+
+.subscribe-form button {
+	background: #abd373;
+}
+.link-widget > li > a:hover{
+    color: #abd373;
+}
+
+.icon {
+	color: #abd373;
+}
+
+.footer-menu ul > li > a:hover{
+    color: #abd373;
+}
+.footer-copyright > p > a {
+	color: #abd373;
+}
+
+.single-tab-menu > a:hover{
+    border-color: #abd373;
+}
+.modal-product-price {
+	color: #abd373;
+}
+.single-slide-menu .owl-dot.active,
+.single-slide-menu .owl-dot:hover {
+	border-color: #abd373;
+	background: #abd373;
+}
+.collection-content > h4 > a {
+	color: #abd373;
+}
+.collection-content > a {
+	background: #abd373;
+}
+.category-heading > h2 {
+	background: #abd373;
+}
+.category-menu-list > ul > li > a:hover,
+.cat-dropdown > li > a:hover{
+    color: #abd373;
+}
+.category-menu-list > ul > li > a:hover:before{
+    background: #abd373;
+    border-color: #abd373;
+}
+.cat-dropdown > li > a:hover{
+    color: #abd373;
+}
+.cat-mega-menu > li > ul > li > a:hover{
+    color: #abd373;
+}
+
+.product-tag > ul > li > a:hover{
+    background: #abd373;
+}
+.store-product-menu > ul > li > a.active,
+.store-product-menu > ul > li > a:hover{
+    color: #abd373;
+}
+.store-product-menu  ul li:first-child:before {
+	background: #abd373;
+}
+.store-product-menu > ul > li:after {
+	background: #abd373;
+}
+.breadcrumb-content > ul > li > a:hover,
+.breadcrumb-content > ul > li.active{
+    color: #abd373;
+}
+
+.categori-checkbox ul li a:hover{
+    color: #abd373;
+}
+.price-filter .ui-slider-range {
+	background: #abd373;
+}
+.price-filter .ui-slider-handle {
+	background: #abd373;
+}
+.price-slider-amount > button:hover,
+.compare-btn:hover{
+	background: #abd373;
+}
+.grid-list-option > ul > li > a.active,
+.grid-list-option > ul > li > a:hover{
+    background-color: #abd373;
+}
+.nice-select .option:hover,
+.nice-select .option.focus,
+.nice-select .option.selected.focus {
+	background: #abd373;
+}
+.add-btn a {
+    background: #abd373;
+}
+.product-list-action > ul > li > a:hover {
+	color: #abd373;
+}
+.product-pagination > ul > li.active > a,
+.product-pagination > ul > li > a:hover {
+	background: #abd373;
+	border-color: #abd373;
+}
+.product-tab-thumbs .slick-arrow:hover{
+    border-color: #abd373;
+    background-color: #abd373;
+}
+a.popup-img:hover{
+    background-color: #abd373;
+}
+.product-nav > a:hover {
+	background: #abd373;
+	border-color: #abd373;
+}
+.review-link:hover{
+    color: #abd373;
+}
+.product-btn {
+	background: #abd373;
+}
+.wishlist-compare-btn a:hover {
+  background: #abd373;
+  border-color: #abd373;
+}
+.product-meta .posted-in > a:hover{
+    color: #abd373;
+}
+.single-product-sharing ul > li > a:hover{
+    color: #abd373;
+}
+.dec-and-review-menu > li > a:after {
+	background: #abd373;
+}
+.review-comment-form-author input:focus,
+.review-comment-form-email input:focus,
+.comment-form-comment textarea:focus {
+    outline-color: #abd373;
+}
+.table-content table td.plantmore-product-add-cart a:hover{
+    background: #abd373;
+}
+.coupon-all input.button:hover{
+    background: #abd373;
+}
+.cart-page-total > a:hover{
+    background: #abd373;
+    border-color: #abd373;
+}
+.coupon-accordion span:hover{
+    color: #abd373;
+}
+.coupon-info p.form-row input[type="submit"]:hover, p.checkout-coupon input[type="submit"]:hover {
+	background: #abd373;
+}
+p.lost-password a:hover{
+    color: #abd373;
+}
+.coupon-info p.form-row input[type="submit"]:hover, p.checkout-coupon input[type="submit"]:hover {
+	background: #abd373;
+}
+.payment-accordion h5.panel-title > a:hover {
+	color: #abd373 !important;
+}
+.order-button-payment input:hover{
+    background: #abd373;
+}
+.lost-password > a:hover {
+	color: #abd373;
+}
+
+.dashboard-upper-info a.view-cart,
+.view {
+	background: #abd373;
+}
+
+.dashboard-list li a.active,.dashboard-list li a:hover,.view-cart:hover,.dashboard-upper-info a:hover {
+  color: #abd373;
+}
+#dashboard a:hover{
+    color: #abd373;
+}
+.default-btn:hover {
+	background: #abd373;
+}
+a.about-btn:hover{
+    background-color: #abd373;
+    border-color: #abd373;
+}
+.single-pricing:hover .pricing-head > h4{
+    background-color: #abd373;
+}
+.pricing-button:hover {
+	background: #abd373;
+}
+.faq-accordion .card.actives {
+	border: 1px solid #abd373;
+}
+.faq-accordion .card-header a:hover{
+    color: #abd373!important;
+}
+.contact-form-style > input:focus,
+.contact-form-style > textarea:focus{
+    outline-color: #abd373;
+}
+
+.contact-icon:before {
+	background: #abd373;
+}
+.single-contact-address:hover .contact-icon{
+    box-shadow: 0 0 0 3px #abd373;
+}
+.protfolio-menu > ul > li:hover,
+.protfolio-menu > ul > li.active {
+	background: #abd373;
+}
+.load-more-btn:hover {
+	background-color: #abd373;
+}
+.error-text > h1 {
+    color: #abd373;
+}
+.search-error button:hover{
+    color: #abd373;
+}
+.error-button a {
+	background: #abd373 none repeat scroll 0 0;
+}
+
+/* custom css */
+.post-author {
+	color: #abd373
+}
+.ajax-popup .modal-content-text .shopping-cart__total {
+  color: #abd373;
+}
+.modal-content button.close:hover i {
+	color: #abd373;
+	border-color: #abd373;
+}
+.ajax-popup .modal-button > a:hover {
+  background: #abd373;
+}
+
+.add-btn .cart-text {
+	background: #abd373;
+}
+.shop-sidebar ul li.active a {
+	color: #abd373;
+}
+.shop-sidebar .product-tag ul li.active a {
+	background: #abd373;
+}
+.spr-content .btn-primary:hover {
+	background-color: #abd373;
+	border-color: #abd373;
+}
+.header-top-language-currency .currency__item a:hover {
+	color: #abd373;
+}
+.theme-default-button:hover {
+	background-color: #abd373;
+}
